@@ -1,0 +1,8 @@
+.search {
+  width: 33%;
+  text-align: center;
+}
+
+.full_scale, .description {
+  display: none;
+}
